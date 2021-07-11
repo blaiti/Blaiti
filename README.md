@@ -56,16 +56,3 @@
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/Blaiti)
-
----
-
-### Github Stats
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Blaiti&show_icons=true&hide_border=true" />
-
-[website]: https://www.blaiti.com
-[app]: https://github.com/blaiti/React-Native-Job-App
-[twitter]: https://twitter.com/SkanderBlaiti
-[youtube]: https://www.youtube.com/Blaiti
-[instagram]: https://instagram.com/skander.blaiti
-[linkedin]: https://www.linkedin.com/in/skanderblaiti
