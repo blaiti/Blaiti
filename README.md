@@ -2,7 +2,7 @@
 
 ## I'm a Front-End Developer, UX/UI Deigner and Content Creator !
 
-- 🔭 I’m currently working on a [Job Mobile Application][app]!
+- 🔭 I’m currently working on a my own project <a target="_blank" href="https://play.google.com/store/apps/details?id=com.khadamni">Khedma Lik</a>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
