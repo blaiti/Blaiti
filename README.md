@@ -1,10 +1,10 @@
 ### Hi, I'm Skander Blaiti 👋
 
-## I'm a Front-End Developer, UX/UI Deigner and Content Creator !
+## I'm a Front-End Developer with a UX/UI background !
 
 - 🔭 I’m currently working on a my own project <a target="_blank" href="https://play.google.com/store/apps/details?id=com.khadamni">Khedma Lik</a>
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play handball / fitness
 
