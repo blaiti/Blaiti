@@ -1,17 +1,17 @@
 ### Hi, I'm Skander Blaiti 👋
 
-## I'm a Front-End Developer with a UX/UI background !
+## I'm a Full-Stack Developer with a UX/UI background !
 
-- 🔭 I’m currently working on a my own project <a target="_blank" href="https://play.google.com/store/apps/details?id=com.khadamni">Khedma Lik</a>
+- 🔭 I’m currently working on a my own project <a target="_blank" href="https://play.google.com/store/apps/details?id=com.wallety">Wallety</a>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play handball / fitness
 
 ### Connect with me:
 
+<a target="_blank" href="https://www.blaiti.com"><img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /></a>
 <a target="_blank" href="https://www.facebook.com/blaiti"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a target="_blank" href="https://www.youtube.com/Blaiti"><img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/skanderblaiti"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a target="_blank" href="https://www.instagram.com/blaiti.codes"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
