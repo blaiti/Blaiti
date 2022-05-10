@@ -1,5 +1,7 @@
 ### Hi, I'm Skander Blaiti 👋
 
+ko_fi: Blaiti
+
 ## I'm a Full-Stack Developer with a UX/UI background !
 
 - 🔭 I’m currently working on a my own project <a target="_blank" href="https://play.google.com/store/apps/details?id=com.wallety">Wallety</a>
