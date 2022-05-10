@@ -1,6 +1,6 @@
 ### Hi, I'm Skander Blaiti 👋
 
-ko_fi: Blaiti
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Blaiti)
 
 ## I'm a Full-Stack Developer with a UX/UI background !
 
