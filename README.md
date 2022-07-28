@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Developer with a UX/UI background !
 
-- 🔭 I’m currently working on a my own project <a target="_blank" href="https://play.google.com/store/apps/details?id=com.wallety">Wallety</a>
+- 🔭 I’m currently working on a my own project <a target="_blank" href="https://github.com/blaiti/React-Dashboard">React-Dashboard</a>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
