@@ -1,5 +1,7 @@
 ### Hi, I'm Skander Blaiti 👋
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=blaiti&left_color=blue&right_color=green)<br/>
+
 ## I'm a Full-Stack Developer with a UX/UI background !
 
 - 🔭 I’m currently working on a my own project <a target="_blank" href="https://github.com/blaiti/React-Dashboard">React-Dashboard</a>
@@ -8,44 +10,37 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play handball / fitness
 
-### Connect with me:
+### ❤️ Connect with me 
 
-<a target="_blank" href="https://www.blaiti.com"><img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /></a>
-<a target="_blank" href="https://www.facebook.com/blaiti"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/skanderblaiti"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a target="_blank" href="https://www.instagram.com/blaiti.codes"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Skander_Blaiti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skanderblaiti)](https://www.linkedin.com/in/skanderblaiti)
+[![Instagram Badge](https://img.shields.io/badge/-blaiti.codes-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/blaiti.codes)](https://www.instagram.com/blaiti.codes)
 
-<br />
+### 🛠️ Technologies and Tools
 
-### Tools :
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### 🏆 Github Activities
 
-<br />
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=blaiti&hide=TeX&layout=compact&theme=default&title_color=2d81e2&text_color=000000)
 
-### Languages :
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/php/php.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<br />
-<br />
+![Blaiti's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaiti&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
 
 ---
 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Wallety - Wallet App using React Native](https://www.youtube.com/watch?v=xGCCsRdeZ-w)
 - [React Native Job App Clone](https://www.youtube.com/watch?v=NwEEm9V-dM8)
 - [React Native E-commerce App Clone](https://www.youtube.com/watch?v=KQX2Bbwa_TQ)
 - [React Native FireBase Android Integration](https://www.youtube.com/watch?v=5Zq1-E0Fd4A)
