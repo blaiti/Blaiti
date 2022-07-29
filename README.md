@@ -15,6 +15,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Skander_Blaiti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skanderblaiti)](https://www.linkedin.com/in/skanderblaiti)
 [![Instagram Badge](https://img.shields.io/badge/-blaiti.codes-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/blaiti.codes)](https://www.instagram.com/blaiti.codes)
 
+---
+
 ### 🛠️ Technologies and Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -31,9 +33,7 @@
 
 ### 🏆 Github Activities
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=blaiti&hide=TeX&layout=compact&theme=default&title_color=2d81e2&text_color=000000)
-
-![Blaiti's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaiti&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=blaiti&hide=TeX&layout=compact&theme=default&title_color=2d81e2&text_color=000000) ![Blaiti's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaiti&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
 
 ---
 
