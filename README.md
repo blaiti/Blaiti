@@ -33,7 +33,7 @@
 
 ### 🏆 Github Activities
 
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=blaiti&hide=TeX&layout=compact&theme=default&title_color=2d81e2&text_color=000000) ![Blaiti's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaiti&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
+![Blaiti's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaiti&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
 
 ---
 
