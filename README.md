@@ -2,7 +2,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=blaiti&left_color=blue&right_color=green)<br/>
 
-## I'm a Full-Stack Developer with a UX/UI background !
+## I'm a Frontend Developer with a design passion !
 
 - 🔭 I’m currently working on a my own project <a target="_blank" href="https://github.com/blaiti/React-Dashboard">React-Dashboard</a>
 - 🌱 I’m currently learning everything 🤣
