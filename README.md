@@ -1,7 +1,5 @@
 ### Hi, I'm Skander Blaiti 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=blaiti&left_color=blue&right_color=green)<br/>
-
 ## I'm a Frontend Developer with a design passion !
 
 - 🔭 I’m currently working on a my own project <a target="_blank" href="https://github.com/blaiti/React-Dashboard">React-Dashboard</a>
@@ -13,7 +11,7 @@
 ### ❤️ Connect with me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Skander_Blaiti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skanderblaiti)](https://www.linkedin.com/in/skanderblaiti)
-[![Instagram Badge](https://img.shields.io/badge/-blaiti.codes-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/blaiti.codes)](https://www.instagram.com/blaiti.codes)
+[![Twitter Badge](https://img.shields.io/badge/-SkanderBlaiti-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/SkanderBlaiti)](https://twitter.com/SkanderBlaiti)
 
 ---
 
@@ -25,15 +23,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-
-### 🏆 Github Activities
-
-![Blaiti's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaiti&show_icons=true&theme=default&title_color=2d81e2&text_color=000000&icon_color=7fff00)
 
 ---
 
