@@ -8,7 +8,7 @@ I’m a Frontend Developer with a design passion. I have developed some web & mo
 
 * 🌍  I'm based in Tunis, Tunisia
 * 🖥️  See my portfolio at [my website](http://www.blaiti.com)
-* 🚀  I'm currently working on [Wallety App](http://github.com/blaiti/Wallety)
+* 🚀  I'm currently working on [Dashlytics Template](https://codecanyon.net/item/dashlytics-react-native-minimalist-dashboard/44707697)
 * 🤝  I'm open to collaborating on React Native Projects
 * ⚡  2023 Goals: Contribute more to Open Source projects
 
@@ -36,13 +36,3 @@ src="https://img.shields.io/twitter/follow/SkanderBlaiti?logo=twitter&style=for-
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/blaiti.codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/skanderblaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SkanderBlaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/blaiti"><img src="https://github-readme-stats.vercel.app/api?username=blaiti&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="blaiti's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/blaiti/Wallety" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blaiti&repo=Wallety&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/blaiti/Developer-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blaiti&repo=Developer-Portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
