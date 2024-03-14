@@ -2,13 +2,12 @@
 
 Welcome to my home page.
 
-My name is Skander and I am `Blaiti` on all of the interwebs. I’m a Frontend Developer with a design passion.
+My name is Skander, widely known as `Blaiti` across the digital landscape. I specialize in Frontend Web & Mobile Development, coupled with a fervent passion for design.
 
 * 🌍  I'm based in Tunis, Tunisia
-* 🖥️  See my portfolio at [my website](http://www.blaiti.com)
 * 🚀  I'm currently working on [Dashlytics Template](https://codecanyon.net/item/dashlytics-react-native-minimalist-dashboard/44707697)
 * 🤝  I'm open to collaborating on React Native Projects
-* ⚡  2023 Goals: Contribute more to Open Source projects
+* ⚡  2024 Goals: Contribute more to Open Source projects
 
 ### Skills
 
