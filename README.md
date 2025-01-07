@@ -5,10 +5,9 @@ Welcome to my home page.
 My name is Skander, widely known as `Blaiti` across the digital landscape. I specialize in Frontend Web & Mobile Development, coupled with a fervent passion for design.
 
 * 🌍  I'm based in Tunis, Tunisia
-* 🚀  I'm currently working on [Dashlytics Template](https://codecanyon.net/item/dashlytics-react-native-minimalist-dashboard/44707697)
+* 🚀  I'm currently working on [Restate - React Native Expo Real State Template](https://codecanyon.net/item/restate-react-native-expo-real-state-template/55946769)
 * 🤝  I'm open to collaborating on React Native Projects
-* ⚡  2024 Goals: Contribute more to Open Source projects
-
+* ⚡  2025 Goals: Launch my own startup
 ### Skills
 
 <p align="left">
@@ -27,4 +26,4 @@ My name is Skander, widely known as `Blaiti` across the digital landscape. I spe
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/blaiti.codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/skanderblaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SkanderBlaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/skanderblaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SkanderBlaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
