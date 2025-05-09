@@ -43,4 +43,4 @@ src="https://img.shields.io/github/followers/blaiti?logo=github&style=for-the-ba
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/blaiti"><img src="https://github-readme-stats.vercel.app/api?username=danielcranney&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="blaiti's GitHub stats" /></a>
+<a href="http://www.github.com/blaiti"><img src="https://github-readme-stats.vercel.app/api?username=blaiti&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="blaiti's GitHub stats" /></a>
