@@ -1,10 +1,10 @@
 Hi 👋 My name is Skander Blaiti
 ===============================
 
-Mobile Developer | Top 3% Upwork Freelancer
+Senior Mobile Developer | Top 3% Upwork Freelancer
 -----------------------------
 
-I specialize in Frontend Web & Mobile Development, coupled with a fervent passion for design.
+I specialize in Mobile Development, coupled with a fervent passion for design.
 
 * 🌍  I'm based in  Tunis, Tunisia
 * 🖥️  See my portfolio at [blaiti.com](https://www.blaiti.com)
