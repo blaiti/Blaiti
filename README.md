@@ -9,10 +9,10 @@ I specialize in Mobile Development, coupled with a fervent passion for design.
 * 🌍  I'm based in  Tunis, Tunisia
 * 🖥️  See my portfolio at [blaiti.com](https://www.blaiti.com)
 * ✉️  You can contact me at [contact@blaiti.com](mailto:contact@blaiti.com)
-* 🚀  I'm currently working on a React Native template, [Morning
-](https://codecanyon.net/item/morning-react-native-expo-blog-wordpress-template/57684568)
+* 🚀  I'm currently working on a React Native template, [Faktur - Your Invoice Hub
+](https://apps.apple.com/us/app/faktur-your-invoice-hub/id6475290686)
 * 🤝   I'm open to collaborating on exciting projects as a frontend or mobile developer.
-* ⚡  2025 Goals: Launch my own startup
+* ⚡  2026 Goals: Ship more apps to production
 
 <a href="https://www.github.com/blaiti" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/blaiti?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
