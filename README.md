@@ -9,7 +9,7 @@ I specialize in Mobile Development, coupled with a fervent passion for design.
 * 🌍  I'm based in  Tunis, Tunisia
 * 🖥️  See my portfolio at [blaiti.com](https://www.blaiti.com)
 * ✉️  You can contact me at [contact@blaiti.com](mailto:contact@blaiti.com)
-* 🚀  I'm currently working on a React Native template, [Faktur - Your Invoice Hub
+* 🚀  I'm currently working on a React Native template, [Faktur - Invoice Maker
 ](https://apps.apple.com/us/app/faktur-your-invoice-hub/id6475290686)
 * 🤝   I'm open to collaborating on exciting projects as a frontend or mobile developer.
 * ⚡  2026 Goals: Ship more apps to production
@@ -39,8 +39,4 @@ src="https://img.shields.io/github/followers/blaiti?logo=github&style=for-the-ba
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/skanderblaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SkanderBlaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-### My GitHub Stats
-
-<img src="https://streak-stats.demolab.com?user=blaiti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<p align="left"> <a href="http://instagram.com/blaiti.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/skanderblaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SkanderBlaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Blaiti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
