@@ -2,9 +2,9 @@
 
 # Hey, I'm Skander 👋
 
-### Senior Mobile Developer · UI/UX Enthusiast · Indie App Builder
+### Senior Mobile Developer · Indie App Builder
 
-*Top 3% on Upwork · Based in Tunis, Tunisia 🇹🇳*
+*Based in Tunis, Tunisia 🇹🇳*
 
 [![Portfolio](https://img.shields.io/badge/blaiti.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.blaiti.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skanderblaiti)
